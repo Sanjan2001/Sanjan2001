@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm <a href="https://github.com/KushalJetty">Kushal Jetty</a>!</h1>
+  <h1>Hi, I'm <a href="https://github.com/Sanjan2001">Sanjan M V</a>!</h1>
   <p><em>🚀 MERN Stack Explorer | ☁️ Cloud Enthusiast</em></p>
   <p><strong>Welcome to my GitHub realm!</strong></p>
   <a href="https://github.com/KushalJetty">
