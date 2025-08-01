@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm <a href="https://github.com/SanjanMV">Sanjan M V</a>!</h1>
-  <p><em>Aspiring **Data Engineer | Software Developer | Data Analyst**</em></p>
+  <p><em>Aspiring Data Engineer | Software Developer | Data Analyst</em></p>
   <p><strong>Welcome to my GitHub realm!</strong></p>
   <a href="https://github.com/SanjanMV">
   </a>
@@ -11,7 +11,7 @@
 ### 🚀 What's Cooking?
 
 - **Learning**: Deep diving into the depths of the Full stack and exploring new technologies.
-- **Building**: Real-world solutions using **Java, Python, SQL**, and **Machine Learning**  
+- **Building**: Real-world solutions using Java, Python, SQL, and Machine Learning  
 - **Automating**: Everything that can be automated...and some things that can't! 😉
 
 ---
@@ -21,21 +21,21 @@
 Here’s what I’ve been up to:
 
 <details>
-  <summary><b>🧠 **Breast Cancer Detection & Classification**  </b></summary>
+  <summary><b>🧠 Breast Cancer Detection & Classification </b></summary>
   <blockquote>
   A Machine learning model that detects the breast cancer cells and classifies the type of breast cancer and the stage of the cancer with patient info. 
   </blockquote>
 </details>
 
 <details>
-  <summary><b>💳 **Student Loan Management System** </b></summary>
+  <summary><b>💳 Student Loan Management System </b></summary>
   <blockquote>
  A full-stack solution to manage student loan applications, status tracking, and EMI calculations.
   </blockquote>
 </details>
 
 <details>
-  <summary><b>**Mental Health Chatbot for Students** </b></summary>
+  <summary><b>🧠 Mental Health Chatbot for Students</b></summary>
   <blockquote>
   An chatbot that interacts with students, built for mental wellness awareness.
   </blockquote>
