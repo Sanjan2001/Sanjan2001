@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm <a href="https://github.com/Sanjan2001">Sanjan M V</a>!</h1>
+  <h1>Hi, I'm <a href="https://github.com/SanjanMV">Sanjan M V</a>!</h1>
   <p><em>🚀 MERN Stack Explorer | ☁️ Cloud Enthusiast</em></p>
   <p><strong>Welcome to my GitHub realm!</strong></p>
-  <a href="https://github.com/KushalJetty">
+  <a href="https://github.com/SanjanMV">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Building+Things+One+Commit+at+a+Time;Turning+Ideas+into+Reality;Crafting+Code+with+Passion" alt="Typing SVG" />
   </a>
 </div>
@@ -93,9 +93,9 @@ I’ve earned some cool badges along the way:
 
 Feeling inspired? Want to collaborate? Just want to say hi? Reach out to me!
 
-- [LinkedIn](https://www.linkedin.com/in/kushaljetty/)
-- [GitHub](https://github.com/KushalJetty)
-- [Twitter](https://x.com/KushalJetty_007)
+- [LinkedIn](https://www.linkedin.com/in/SanjanMV/)
+- [GitHub](https://github.com/SanjanMV)
+- [Twitter](https://x.com/SanjanMV)
 
 ---
 
